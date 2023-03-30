@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "fir-test-application-785f4": {
+      "hosting": {
+        "angular-firebase-hosting": [
+          "fir-test-application-785f4"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "fir-test-application-785f4"
+  }
+}
